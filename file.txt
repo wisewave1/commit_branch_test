@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 1.0.2
-=======
 1.0.0
->>>>>>> parent of 11549f9 (file content changed as v1.0.1)
+1.0.0
