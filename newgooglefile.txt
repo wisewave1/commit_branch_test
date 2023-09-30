@@ -1,3 +1,7 @@
 This is a google file on google branch
 
-ms branch에서 수정하였음
+ms branch에서 수정한 후에
+master 브랜치로 머지한 후에
+추가적으로 커밋함
+
+최종적으로 master브랜치에서 커밋함
